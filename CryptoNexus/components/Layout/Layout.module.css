@@ -1,0 +1,71 @@
+/* .layout {
+  height: 100%;
+  width: 100%;
+  color: #fff;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.coin_logo {
+  height: 200px;
+  width: 200px;
+} */
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  color: #fff;
+}
+
+.dashboardContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 0 20px;
+  flex: 1;
+}
+
+.weatherSection {
+  flex: 1;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20px;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+.newsSection {
+  flex: 1;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+
+.weatherCard {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #fff;
+  color: #333;
+}
+
+.newsItem {
+  margin-bottom: 10px;
+}
+
+.newsItem a {
+  color: #00bcd4;
+  text-decoration: none;
+}
+
+.newsItem a:hover {
+  text-decoration: underline;
+}
+
