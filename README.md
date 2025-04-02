@@ -2,7 +2,7 @@
 
 CryptoWeather Nexus is a modern multi-page dashboard that provides real-time weather data, cryptocurrency information, and news updates. The project integrates WebSocket notifications for real-time updates and is built using Next.js, React, Redux, and Tailwind CSS.
 
-###  **Deployed Link:  🚀** 
+###  **Deployed Link: https://cryptonexus-8qfjby8e9-snigdhas-projects-e96b32fb.vercel.app/ 🚀** 
 
 ### **1. Clone the Repository**  
 ```bash
